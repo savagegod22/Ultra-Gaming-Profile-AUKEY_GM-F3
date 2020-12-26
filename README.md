@@ -7,7 +7,7 @@ Requirements:
 
 [Download Here](https://github.com/savagegod22/Ultra-Gaming-Profile-for-AUKEY_GM-F3_Gaming_Mouse_Software/releases/download/1.0/Ultra_Gaming-1.0.bin)
 
-Now, startup the software and press `Load Profile`
+Now, start the software and press `Load Profile`
 
 ![Load Profile](https://github.com/savagegod22/Ultra-Gaming-Profile-for-AUKEY_GM-F3_Gaming_Mouse_Software/blob/main/GM-F3_1.png)
 
